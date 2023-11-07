@@ -4,3 +4,4 @@
 ### It has two options : 1. Tweet Analysis 2. Hashtag Analysis.
 ### The core logic works on a ML model with Count Vectorizer and Logistic Regression techniques for better accuracy.
 ### The website is handled using Django (for routing and views) and HTML, CSS & Javascript (for frontend).
+### (Hashtag analysis is currently in progress due Twitter new API policies)
